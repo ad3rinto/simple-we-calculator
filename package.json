@@ -1,0 +1,22 @@
+{
+  "name": "simple-web-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ad3rinto/simple-web-calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ad3rinto/simple-web-calculator/issues"
+  },
+  "homepage": "https://github.com/ad3rinto/simple-web-calculator#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
